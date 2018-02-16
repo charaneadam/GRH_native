@@ -126,8 +126,6 @@
 			</form>
 		</div>
 		
-	<script src="../js/jquery.min.js"></script>
-    <script src="../js/tether.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
+	<?php include 'scripts.html'; ?>
 	</body>
 </html>
